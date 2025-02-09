@@ -1,0 +1,15 @@
+/z/public/secret.txt exists.
+Processing.................Done!
+
+Output:
+congratulations! you unscrambled the message in the uss challenge!!
+         0 ./tmp
+         8 ./.npm/_logs/2025-02-07T23_59_44_007Z-debug-0.log
+        16 ./.npm/_logs
+         0 ./.npm/_update-notifier-last-checked
+        24 ./.npm
+         1 ./.npmrc
+         8 ./scramble.sh
+         8 ./ussout.txt
+        49 .
+Fri Feb  7 18:11:34 CST 2025
